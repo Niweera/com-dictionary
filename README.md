@@ -26,7 +26,7 @@ New components should be added to the `Components` directory.
 $ npm install
 $ npm start
 ```
-Go to:
+Go to:\
 ```http request
 http://localhost:3000
 ```
